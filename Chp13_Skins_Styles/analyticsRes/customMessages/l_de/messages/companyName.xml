@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WebMessageTables xmlns:sawm="com.siebel.analytics.web/message/v1">
+<WebMessageTable system="ProductMessages" table="ProductNames">
+<WebMessage name="kmsgHeaderBIBrandName">
+<TEXT> Firme XYZ </TEXT>
+</WebMessage>
+</WebMessageTable>
+</WebMessageTables>
