@@ -13,8 +13,10 @@ We've tried to list out the core items from the book:
 
 ##Database for the Tennis Data Warehouse
 The Tennis DB can be found in a couple of different flavors.  In the folder labeled Tennis_Database, you'll find the:
-*Tennis Database DDL File
-*Tennis Database HTML Documentation Zip File
+* Tennis Database DDL File
+* Tennis Database HTML Documentation Zip File
+
+Password: Tennis01
 
 We've parked the full-blown Oracle Database Dump of the Tennis DB on the following link for you to download, 
 http://aws3.artofbi.com/OBI11gBook/TennisDB.7z
